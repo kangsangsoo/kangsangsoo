@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, Wizley! 👋
 
-<!--
-**kangsangsoo/kangsangsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Android Developer
 
-Here are some ideas to get you started:
+# 📚 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Korea University (2020.03 - Current)
+
+# ⚡Languages
+
+
+# 🖥️ Algorithm
+
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtkdtn0706)](https://solved.ac/rkdtkdtn0706)
+
+
+# 🔭 Github
+
+[![profile](https://github-readme-stats.vercel.app/api?username=kangsangsoo)](https://github.com/kangsangsoo)
