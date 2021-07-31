@@ -1,4 +1,4 @@
-# Hi, Wizley! 👋
+# Hi! 👋
 
 Junior Android Developer
 
