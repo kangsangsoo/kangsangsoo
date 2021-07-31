@@ -1,6 +1,6 @@
 # Hi! 👋
 
-Junior Android Developer
+- 
 
 # 📚 Education
 
