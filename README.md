@@ -8,6 +8,7 @@
 
 # ⚡Languages
 
+- C/Python
 
 # 🖥️ Algorithm
 
